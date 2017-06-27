@@ -1,5 +1,3 @@
-:style
-
 node {
   diameter: 50px;
   color: #A5ABB6;
